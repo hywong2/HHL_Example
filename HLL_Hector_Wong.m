@@ -1,3 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Paper Source
+% "Step-by-Step HHL Algorithm Walkthrough to Enhance the Understanding of
+% Critical Quantum Computing Concepts"
+% https://arxiv.org/abs/2108.09004
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 clc; close all; clear all
 
 display('This section is to calculate the neccessary components of the circuit');
