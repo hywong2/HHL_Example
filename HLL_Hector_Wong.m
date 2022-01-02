@@ -3,6 +3,11 @@
 % "Step-by-Step HHL Algorithm Walkthrough to Enhance the Understanding of
 % Critical Quantum Computing Concepts"
 % https://arxiv.org/abs/2108.09004
+
+%To cite
+
+%Hector Morrell and Hiu Yung Wong, "Step-by-Step HHL Algorithm Walkthrough to Enhance the Understanding of Critical Quantum Computing Concepts", arXiv preprint arXiv:2108.09004
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clc; close all; clear all
